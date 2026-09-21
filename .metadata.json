@@ -117,6 +117,20 @@
         "references/details.md": "sha256:bb85b108b101f76ec02cd678e34e83181148a2bb49e240f23131c51288c76c32"
       }
     },
+    "core/frontend/agent-browser": {
+      "source": "https://github.com/vercel-labs/agent-browser/tree/main/skills/agent-browser",
+      "type": "github-subdir",
+      "group": "core/frontend",
+      "installed_at": "2026-09-21T16:39:27.296070535+09:00",
+      "repo_url": "https://github.com/vercel-labs/agent-browser.git",
+      "subdir": "skills/agent-browser",
+      "version": "44583ac",
+      "tree_hash": "82def67855a0d2aad7794207951820fa5422fdb0",
+      "commit": "44583ac8385d814ab98cbf40feec97620376b50e",
+      "file_hashes": {
+        "SKILL.md": "sha256:3a7520e64de2dfaa516b6721c001e84e06e3c06a187b82af029ae721540ebfac"
+      }
+    },
     "core/frontend/composition-patterns": {
       "source": "https://github.com/vercel-labs/agent-skills/skills/composition-patterns",
       "type": "github-subdir",
